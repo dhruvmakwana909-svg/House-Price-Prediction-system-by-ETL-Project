@@ -12,16 +12,27 @@ Visualize insights using Power BI & Tableau
 
 Project Structure
 House-Price-Prediction/
+
 │── data/
+
 │   └── Housepriceprediction.csv
+
 │── sql/
+
 │   └── house_price_analysis.sql
+
 │── python/
+
 │   └── house_price_ml.py
+
 │── powerbi/
+
 │   └── HousePriceDashboard.pbix
+
 │── output/
+
 │   └── house_price_predictions.csv
+
 │── README.md
 
 
